@@ -1,6 +1,6 @@
 Yecheng Li & Mingyang Yu
 
-MPCS54001 Networks - Project2
+Networks Project
 Mar 7, 2015
 
 1. This project includes:
